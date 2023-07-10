@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "getopt.h": "c",
-        "ios": "c",
-        "locale": "c",
-        "regex.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
-}
